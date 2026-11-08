@@ -3748,5 +3748,10 @@
     "timestamp": "2026-11-08T17:40:13+00:00",
     "bank_sells_sgd": 16901.0,
     "bank_buys_sgd": 16525.0
+  },
+  {
+    "timestamp": "2026-11-08T21:44:27+00:00",
+    "bank_sells_sgd": 16901.0,
+    "bank_buys_sgd": 16525.0
   }
 ]
